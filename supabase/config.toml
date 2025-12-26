@@ -1,0 +1,4 @@
+project_id = "garzrldbuvegbfqmeejp"
+
+[functions.mongodb-jewelry]
+verify_jwt = false
